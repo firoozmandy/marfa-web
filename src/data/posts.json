@@ -1,0 +1,224 @@
+[
+	{
+		"id": 1,
+		"date": "2023-05-31T04:34:12",
+    "date_gmt": "2023-05-31T04:34:12",
+		"modified": "2023-11-26T00:13:22",
+    "modified_gmt": "2023-11-26T00:13:22",
+		"slug": "effective-marketing-for-start-ups",
+		"title": {
+      "rendered": "بازاریابی موثر برای استارت آپ ها"
+    },
+		"content": {
+      "rendered": "\n<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href=\"#\">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>\n\n\n\n<p>What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>\n\n\n\n<hr class=\"wp-block-separator has-css-opacity is-style-dots\"/>\n\n\n\n<p>Headings are separate blocks as well, which helps with the outline and organization of your content.</p>\n\n\n\n<h2 class=\"wp-block-heading\">یک عکس ارزش هزار کلمه را دارد</h2>\n\n\n\n<p>مدیریت تصاویر و رسانه ها با نهایت دقت تمرکز اصلی ویرایشگر جدید است. امیدواریم که جنبه‌های اضافه کردن زیرنویس یا نمایش تمام عرض با تصاویر خود را بسیار آسان‌تر و قوی‌تر از قبل پیدا کنید..</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_7-1.jpg\" alt=\"\"/></figure>\n\n\n\n<p>Try selecting and removing or editing the caption, now you don’t have to be careful about selecting the image or other text by mistake and ruining the presentation.</p>\n\n\n\n<h2 class=\"wp-block-heading\">The <em>Inserter</em> Tool</h2>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That’s the spirit behind the inserter—the <code>(+)</code> button you’ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing.</p>\n\n\n\n<h4 class=\"wp-block-heading\">Amazing Tables</h4>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td><strong>ID</strong></td><td><strong>Name</strong></td><td><strong>Last Name</strong></td><td><strong>Profession</strong></td></tr><tr><td>1</td><td>Kazumi</td><td>Mishima</td><td>Designer</td></tr><tr><td>2</td><td>Sergei</td><td>Dragounov</td><td>Developer</td></tr><tr><td>3</td><td>Jozie</td><td>Rizal</td><td>Support</td></tr></tbody></table></figure>\n\n\n\n<p>Go give it a try, you may discover things WordPress can already add into your posts that you didn’t know about. Here’s a short list of what you can currently find there:</p>\n\n\n\n<ul>\n<li>Text &amp; Headings</li>\n\n\n\n<li>Images &amp; Videos</li>\n\n\n\n<li>Galleries</li>\n\n\n\n<li>Embeds, like YouTube, Tweets, or other WordPress posts.</li>\n\n\n\n<li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li>\n\n\n\n<li>And <em>Lists</em> like this one of course 🙂</li>\n</ul>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax.</p>\n\n\n\n<blockquote class=\"wp-block-quote has-text-align-center is-style-default\">\n<p>The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery.</p>\n<cite>Matt Mullenweg, 2017</cite></blockquote>\n\n\n\n<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Media Rich</h2>\n\n\n\n<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>\n\n\n\n<figure class=\"wp-block-image alignfull\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_2-1-769x501.jpg\" alt=\"post_2\" class=\"wp-image-224\"/></figure>\n\n\n\n<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it.</p>\n\n\n\n<p>The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>\n\n\n\n<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:</p>\n\n\n\n<p class=\"has-text-align-center\"><em> If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the GitHub repository. </em></p>\n\n\n\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://deothemes.com/\">Purchase Now</a></div>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+		"excerpt": {
+        "rendered": "<p>همانطور که ممکن است قبلاً می دانید، تعداد نامحدودی از موارد وجود دارد که می توانید در سایت خود آزمایش کنید تا به شما در افزایش فروش کمک کند. از طرح بندی گرفته تا کپی تا طراحی، ترکیبات بی حد و حصری از تغییرات وجود دارد که ممکن است شما را بهبود بخشد. نرخ تبدیل بازدیدکننده به فروش اما زمانی که تازه شروع به کار کرده‌اید، روی چه عناصری باید تمرکز کنید؟?</p>\n",
+
+      "protected": false
+    },
+		"featuredmedia": {
+			"alt_text": "Effective Marketing for Start-Ups",
+			"media_details": {
+				"width": 1440,
+				"height": 972,
+				"source_url": "https://wordpress-597675-3975829.cloudwaysapps.com/wp-content/uploads/2018/05/post_1.jpg"
+			}
+		},
+		"author": {
+			"name": "Aleksandr",
+			"avatar_urls": {
+				"48": "https://secure.gravatar.com/avatar/e6a038aeaab23728d95493fb14b95bf6?s=48&d=mm&r=g" 
+			}
+		},
+		"categories": [
+			{
+				"id": 1,
+				"name": "Advertisement" 
+			},
+			{
+				"id": 2,
+				"name": "Content Marketing" 
+			}
+    ]
+	},
+	{
+		"id": 2,
+		"date": "2023-05-31T04:34:12",
+    "date_gmt": "2023-05-31T04:34:12",
+		"modified": "2023-11-25T00:13:22",
+    "modified_gmt": "2023-11-25T00:13:22",
+		"slug": "offer-an-outrageous-or-daily-deal",
+		"title": {
+      "rendered": "یک معامله ظالمانه یا روزانه ارائه دهید"
+    },
+		"content": {
+      "rendered": "\n<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href=\"#\">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>\n\n\n\n<p>What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>\n\n\n\n<hr class=\"wp-block-separator has-css-opacity is-style-dots\"/>\n\n\n\n<p>Headings are separate blocks as well, which helps with the outline and organization of your content.</p>\n\n\n\n<h2 class=\"wp-block-heading\">یک عکس ارزش هزار کلمه را دارد</h2>\n\n\n\n<p>مدیریت تصاویر و رسانه ها با نهایت دقت تمرکز اصلی ویرایشگر جدید است. امیدواریم که جنبه‌های اضافه کردن زیرنویس یا نمایش تمام عرض با تصاویر خود را بسیار آسان‌تر و قوی‌تر از قبل پیدا کنید..</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_7-1.jpg\" alt=\"\"/></figure>\n\n\n\n<p>Try selecting and removing or editing the caption, now you don’t have to be careful about selecting the image or other text by mistake and ruining the presentation.</p>\n\n\n\n<h2 class=\"wp-block-heading\">The <em>Inserter</em> Tool</h2>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That’s the spirit behind the inserter—the <code>(+)</code> button you’ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing.</p>\n\n\n\n<h4 class=\"wp-block-heading\">Amazing Tables</h4>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td><strong>ID</strong></td><td><strong>Name</strong></td><td><strong>Last Name</strong></td><td><strong>Profession</strong></td></tr><tr><td>1</td><td>Kazumi</td><td>Mishima</td><td>Designer</td></tr><tr><td>2</td><td>Sergei</td><td>Dragounov</td><td>Developer</td></tr><tr><td>3</td><td>Jozie</td><td>Rizal</td><td>Support</td></tr></tbody></table></figure>\n\n\n\n<p>Go give it a try, you may discover things WordPress can already add into your posts that you didn’t know about. Here’s a short list of what you can currently find there:</p>\n\n\n\n<ul>\n<li>Text &amp; Headings</li>\n\n\n\n<li>Images &amp; Videos</li>\n\n\n\n<li>Galleries</li>\n\n\n\n<li>Embeds, like YouTube, Tweets, or other WordPress posts.</li>\n\n\n\n<li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li>\n\n\n\n<li>And <em>Lists</em> like this one of course 🙂</li>\n</ul>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax.</p>\n\n\n\n<blockquote class=\"wp-block-quote has-text-align-center is-style-default\">\n<p>The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery.</p>\n<cite>Matt Mullenweg, 2017</cite></blockquote>\n\n\n\n<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Media Rich</h2>\n\n\n\n<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>\n\n\n\n<figure class=\"wp-block-image alignfull\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_2-1-769x501.jpg\" alt=\"post_2\" class=\"wp-image-224\"/></figure>\n\n\n\n<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it.</p>\n\n\n\n<p>The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>\n\n\n\n<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:</p>\n\n\n\n<p class=\"has-text-align-center\"><em> If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the GitHub repository. </em></p>\n\n\n\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://deothemes.com/\">Purchase Now</a></div>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+		"excerpt": {
+            "rendered": "<p>همانطور که ممکن است قبلاً می دانید، تعداد نامحدودی از موارد وجود دارد که می توانید در سایت خود آزمایش کنید تا به شما در افزایش فروش کمک کند. از طرح بندی گرفته تا کپی تا طراحی، ترکیبات بی حد و حصری از تغییرات وجود دارد که ممکن است شما را بهبود بخشد. نرخ تبدیل بازدیدکننده به فروش اما زمانی که تازه شروع به کار کرده‌اید، روی چه عناصری باید تمرکز کنید؟?</p>\n",
+
+      "protected": false
+    },
+		"featuredmedia": {
+			"alt_text": "Offer an Outrageous or Daily Deal",
+			"media_details": {
+				"width": 1440,
+				"height": 972,
+				"source_url": "https://wordpress-597675-3975829.cloudwaysapps.com/wp-content/uploads/2018/05/post_2.jpg"
+			}
+		},
+		"categories": [
+			{
+				"id": 2,
+				"name": "Content Marketing" 
+			}
+    ]
+	},
+	{
+		"id": 3,
+		"date": "2023-05-31T04:34:12",
+    "date_gmt": "2023-05-31T04:34:12",
+		"modified": "2023-11-24T00:13:22",
+    "modified_gmt": "2023-11-24T00:13:22",
+		"slug": "investigate-your-competition",
+		"title": {
+      "rendered": "Investigate your Competition"
+    },
+		"content": {
+      "rendered": "\n<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href=\"#\">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>\n\n\n\n<p>What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>\n\n\n\n<hr class=\"wp-block-separator has-css-opacity is-style-dots\"/>\n\n\n\n<p>Headings are separate blocks as well, which helps with the outline and organization of your content.</p>\n\n\n\n<h2 class=\"wp-block-heading\">یک عکس ارزش هزار کلمه را دارد</h2>\n\n\n\n<p>مدیریت تصاویر و رسانه ها با نهایت دقت تمرکز اصلی ویرایشگر جدید است. امیدواریم که جنبه‌های اضافه کردن زیرنویس یا نمایش تمام عرض با تصاویر خود را بسیار آسان‌تر و قوی‌تر از قبل پیدا کنید..</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_7-1.jpg\" alt=\"\"/></figure>\n\n\n\n<p>Try selecting and removing or editing the caption, now you don’t have to be careful about selecting the image or other text by mistake and ruining the presentation.</p>\n\n\n\n<h2 class=\"wp-block-heading\">The <em>Inserter</em> Tool</h2>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That’s the spirit behind the inserter—the <code>(+)</code> button you’ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing.</p>\n\n\n\n<h4 class=\"wp-block-heading\">Amazing Tables</h4>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td><strong>ID</strong></td><td><strong>Name</strong></td><td><strong>Last Name</strong></td><td><strong>Profession</strong></td></tr><tr><td>1</td><td>Kazumi</td><td>Mishima</td><td>Designer</td></tr><tr><td>2</td><td>Sergei</td><td>Dragounov</td><td>Developer</td></tr><tr><td>3</td><td>Jozie</td><td>Rizal</td><td>Support</td></tr></tbody></table></figure>\n\n\n\n<p>Go give it a try, you may discover things WordPress can already add into your posts that you didn’t know about. Here’s a short list of what you can currently find there:</p>\n\n\n\n<ul>\n<li>Text &amp; Headings</li>\n\n\n\n<li>Images &amp; Videos</li>\n\n\n\n<li>Galleries</li>\n\n\n\n<li>Embeds, like YouTube, Tweets, or other WordPress posts.</li>\n\n\n\n<li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li>\n\n\n\n<li>And <em>Lists</em> like this one of course 🙂</li>\n</ul>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax.</p>\n\n\n\n<blockquote class=\"wp-block-quote has-text-align-center is-style-default\">\n<p>The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery.</p>\n<cite>Matt Mullenweg, 2017</cite></blockquote>\n\n\n\n<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Media Rich</h2>\n\n\n\n<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>\n\n\n\n<figure class=\"wp-block-image alignfull\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_2-1-769x501.jpg\" alt=\"post_2\" class=\"wp-image-224\"/></figure>\n\n\n\n<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it.</p>\n\n\n\n<p>The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>\n\n\n\n<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:</p>\n\n\n\n<p class=\"has-text-align-center\"><em> If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the GitHub repository. </em></p>\n\n\n\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://deothemes.com/\">Purchase Now</a></div>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+		"excerpt": {
+			"rendered": "<p>همانطور که ممکن است قبلاً می دانید، تعداد نامحدودی از موارد وجود دارد که می توانید در سایت خود آزمایش کنید تا به شما در افزایش فروش کمک کند. از طرح بندی گرفته تا کپی تا طراحی، ترکیبات بی حد و حصری از تغییرات وجود دارد که ممکن است شما را بهبود بخشد. نرخ تبدیل بازدیدکننده به فروش اما زمانی که تازه شروع به کار کرده‌اید، روی چه عناصری باید تمرکز کنید؟?</p>\n",
+
+      "protected": false
+    },
+		"featuredmedia": {
+			"alt_text": "Investigate your Competition",
+			"media_details": {
+				"width": 1440,
+				"height": 972,
+				"source_url": "https://wordpress-597675-3975829.cloudwaysapps.com/wp-content/uploads/2018/05/post_3.jpg"
+			}
+		},
+		"categories": [
+			{
+				"id": 2,
+				"name": "Content Marketing" 
+			}
+    ]
+	},
+	{
+		"id": 4,
+		"date": "2023-05-31T04:34:12",
+    "date_gmt": "2023-05-31T04:34:12",
+		"modified": "2023-11-23T00:13:22",
+    "modified_gmt": "2023-11-23T00:13:22",
+		"slug": "using-technology-to-maximize-efficiency",
+		"title": {
+      "rendered": "Using Technology to Maximize Efficiency"
+    },
+		"content": {
+      "rendered": "\n<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href=\"#\">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>\n\n\n\n<p>What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>\n\n\n\n<hr class=\"wp-block-separator has-css-opacity is-style-dots\"/>\n\n\n\n<p>Headings are separate blocks as well, which helps with the outline and organization of your content.</p>\n\n\n\n<h2 class=\"wp-block-heading\">یک عکس ارزش هزار کلمه را دارد</h2>\n\n\n\n<p>مدیریت تصاویر و رسانه ها با نهایت دقت تمرکز اصلی ویرایشگر جدید است. امیدواریم که جنبه‌های اضافه کردن زیرنویس یا نمایش تمام عرض با تصاویر خود را بسیار آسان‌تر و قوی‌تر از قبل پیدا کنید..</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_7-1.jpg\" alt=\"\"/></figure>\n\n\n\n<p>Try selecting and removing or editing the caption, now you don’t have to be careful about selecting the image or other text by mistake and ruining the presentation.</p>\n\n\n\n<h2 class=\"wp-block-heading\">The <em>Inserter</em> Tool</h2>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That’s the spirit behind the inserter—the <code>(+)</code> button you’ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing.</p>\n\n\n\n<h4 class=\"wp-block-heading\">Amazing Tables</h4>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td><strong>ID</strong></td><td><strong>Name</strong></td><td><strong>Last Name</strong></td><td><strong>Profession</strong></td></tr><tr><td>1</td><td>Kazumi</td><td>Mishima</td><td>Designer</td></tr><tr><td>2</td><td>Sergei</td><td>Dragounov</td><td>Developer</td></tr><tr><td>3</td><td>Jozie</td><td>Rizal</td><td>Support</td></tr></tbody></table></figure>\n\n\n\n<p>Go give it a try, you may discover things WordPress can already add into your posts that you didn’t know about. Here’s a short list of what you can currently find there:</p>\n\n\n\n<ul>\n<li>Text &amp; Headings</li>\n\n\n\n<li>Images &amp; Videos</li>\n\n\n\n<li>Galleries</li>\n\n\n\n<li>Embeds, like YouTube, Tweets, or other WordPress posts.</li>\n\n\n\n<li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li>\n\n\n\n<li>And <em>Lists</em> like this one of course 🙂</li>\n</ul>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax.</p>\n\n\n\n<blockquote class=\"wp-block-quote has-text-align-center is-style-default\">\n<p>The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery.</p>\n<cite>Matt Mullenweg, 2017</cite></blockquote>\n\n\n\n<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Media Rich</h2>\n\n\n\n<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>\n\n\n\n<figure class=\"wp-block-image alignfull\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_2-1-769x501.jpg\" alt=\"post_2\" class=\"wp-image-224\"/></figure>\n\n\n\n<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it.</p>\n\n\n\n<p>The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>\n\n\n\n<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:</p>\n\n\n\n<p class=\"has-text-align-center\"><em> If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the GitHub repository. </em></p>\n\n\n\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://deothemes.com/\">Purchase Now</a></div>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+		"excerpt": {
+            "rendered": "<p>همانطور که ممکن است قبلاً می دانید، تعداد نامحدودی از موارد وجود دارد که می توانید در سایت خود آزمایش کنید تا به شما در افزایش فروش کمک کند. از طرح بندی گرفته تا کپی تا طراحی، ترکیبات بی حد و حصری از تغییرات وجود دارد که ممکن است شما را بهبود بخشد. نرخ تبدیل بازدیدکننده به فروش اما زمانی که تازه شروع به کار کرده‌اید، روی چه عناصری باید تمرکز کنید؟?</p>\n",
+
+      "protected": false
+    },
+		"featuredmedia": {
+			"alt_text": "Using Technology to Maximize Efficiency",
+			"media_details": {
+				"width": 1440,
+				"height": 972,
+				"source_url": "https://wordpress-597675-3975829.cloudwaysapps.com/wp-content/uploads/2018/05/post_4.jpg"
+			}
+		},
+		"categories": [
+			{
+				"id": 1,
+				"name": "Tips" 
+			}
+    ]
+	},
+	{
+		"id": 5,
+		"date": "2023-05-31T04:34:12",
+    "date_gmt": "2023-05-31T04:34:12",
+		"modified": "2023-11-23T00:13:22",
+    "modified_gmt": "2023-11-23T00:13:22",
+		"slug": "breaking-one-task-down-into-bite-size-pieces",
+		"title": {
+      "rendered": "Breaking One Task Down Into Bite-Size Pieces"
+    },
+		"content": {
+      "rendered": "\n<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href=\"#\">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>\n\n\n\n<p>What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>\n\n\n\n<hr class=\"wp-block-separator has-css-opacity is-style-dots\"/>\n\n\n\n<p>Headings are separate blocks as well, which helps with the outline and organization of your content.</p>\n\n\n\n<h2 class=\"wp-block-heading\">یک عکس ارزش هزار کلمه را دارد</h2>\n\n\n\n<p>مدیریت تصاویر و رسانه ها با نهایت دقت تمرکز اصلی ویرایشگر جدید است. امیدواریم که جنبه‌های اضافه کردن زیرنویس یا نمایش تمام عرض با تصاویر خود را بسیار آسان‌تر و قوی‌تر از قبل پیدا کنید..</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_7-1.jpg\" alt=\"\"/></figure>\n\n\n\n<p>Try selecting and removing or editing the caption, now you don’t have to be careful about selecting the image or other text by mistake and ruining the presentation.</p>\n\n\n\n<h2 class=\"wp-block-heading\">The <em>Inserter</em> Tool</h2>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That’s the spirit behind the inserter—the <code>(+)</code> button you’ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing.</p>\n\n\n\n<h4 class=\"wp-block-heading\">Amazing Tables</h4>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td><strong>ID</strong></td><td><strong>Name</strong></td><td><strong>Last Name</strong></td><td><strong>Profession</strong></td></tr><tr><td>1</td><td>Kazumi</td><td>Mishima</td><td>Designer</td></tr><tr><td>2</td><td>Sergei</td><td>Dragounov</td><td>Developer</td></tr><tr><td>3</td><td>Jozie</td><td>Rizal</td><td>Support</td></tr></tbody></table></figure>\n\n\n\n<p>Go give it a try, you may discover things WordPress can already add into your posts that you didn’t know about. Here’s a short list of what you can currently find there:</p>\n\n\n\n<ul>\n<li>Text &amp; Headings</li>\n\n\n\n<li>Images &amp; Videos</li>\n\n\n\n<li>Galleries</li>\n\n\n\n<li>Embeds, like YouTube, Tweets, or other WordPress posts.</li>\n\n\n\n<li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li>\n\n\n\n<li>And <em>Lists</em> like this one of course 🙂</li>\n</ul>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax.</p>\n\n\n\n<blockquote class=\"wp-block-quote has-text-align-center is-style-default\">\n<p>The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery.</p>\n<cite>Matt Mullenweg, 2017</cite></blockquote>\n\n\n\n<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Media Rich</h2>\n\n\n\n<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>\n\n\n\n<figure class=\"wp-block-image alignfull\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_2-1-769x501.jpg\" alt=\"post_2\" class=\"wp-image-224\"/></figure>\n\n\n\n<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it.</p>\n\n\n\n<p>The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>\n\n\n\n<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:</p>\n\n\n\n<p class=\"has-text-align-center\"><em> If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the GitHub repository. </em></p>\n\n\n\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://deothemes.com/\">Purchase Now</a></div>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+		"excerpt": {
+            "rendered": "<p>همانطور که ممکن است قبلاً می دانید، تعداد نامحدودی از موارد وجود دارد که می توانید در سایت خود آزمایش کنید تا به شما در افزایش فروش کمک کند. از طرح بندی گرفته تا کپی تا طراحی، ترکیبات بی حد و حصری از تغییرات وجود دارد که ممکن است شما را بهبود بخشد. نرخ تبدیل بازدیدکننده به فروش اما زمانی که تازه شروع به کار کرده‌اید، روی چه عناصری باید تمرکز کنید؟?</p>\n",
+
+      "protected": false
+    },
+		"featuredmedia": {
+			"alt_text": "Breaking One Task Down Into Bite-Size Pieces",
+			"media_details": {
+				"width": 1440,
+				"height": 972,
+				"source_url": "https://wordpress-597675-3975829.cloudwaysapps.com/wp-content/uploads/2018/05/post_5.jpg"
+			}
+		},
+		"categories": [
+			{
+				"id": 1,
+				"name": "Planning" 
+			},
+			{
+				"id": 2,
+				"name": "SEO" 
+			}
+    ]
+	},
+	{
+		"id": 6,
+		"date": "2023-05-31T04:34:12",
+    "date_gmt": "2023-05-31T04:34:12",
+		"modified": "2023-11-20T00:13:22",
+    "modified_gmt": "2023-11-20T00:13:22",
+		"slug": "get-organized-technology-is-your-friend",
+		"title": {
+      "rendered": "Get Organized &#8211; Technology is your Friend"
+    },
+		"content": {
+      "rendered": "\n<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href=\"#\">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>\n\n\n\n<p>What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>\n\n\n\n<hr class=\"wp-block-separator has-css-opacity is-style-dots\"/>\n\n\n\n<p>Headings are separate blocks as well, which helps with the outline and organization of your content.</p>\n\n\n\n<h2 class=\"wp-block-heading\">یک عکس ارزش هزار کلمه را دارد</h2>\n\n\n\n<p>مدیریت تصاویر و رسانه ها با نهایت دقت تمرکز اصلی ویرایشگر جدید است. امیدواریم که جنبه‌های اضافه کردن زیرنویس یا نمایش تمام عرض با تصاویر خود را بسیار آسان‌تر و قوی‌تر از قبل پیدا کنید..</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_7-1.jpg\" alt=\"\"/></figure>\n\n\n\n<p>Try selecting and removing or editing the caption, now you don’t have to be careful about selecting the image or other text by mistake and ruining the presentation.</p>\n\n\n\n<h2 class=\"wp-block-heading\">The <em>Inserter</em> Tool</h2>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That’s the spirit behind the inserter—the <code>(+)</code> button you’ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing.</p>\n\n\n\n<h4 class=\"wp-block-heading\">Amazing Tables</h4>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td><strong>ID</strong></td><td><strong>Name</strong></td><td><strong>Last Name</strong></td><td><strong>Profession</strong></td></tr><tr><td>1</td><td>Kazumi</td><td>Mishima</td><td>Designer</td></tr><tr><td>2</td><td>Sergei</td><td>Dragounov</td><td>Developer</td></tr><tr><td>3</td><td>Jozie</td><td>Rizal</td><td>Support</td></tr></tbody></table></figure>\n\n\n\n<p>Go give it a try, you may discover things WordPress can already add into your posts that you didn’t know about. Here’s a short list of what you can currently find there:</p>\n\n\n\n<ul>\n<li>Text &amp; Headings</li>\n\n\n\n<li>Images &amp; Videos</li>\n\n\n\n<li>Galleries</li>\n\n\n\n<li>Embeds, like YouTube, Tweets, or other WordPress posts.</li>\n\n\n\n<li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li>\n\n\n\n<li>And <em>Lists</em> like this one of course 🙂</li>\n</ul>\n\n\n\n<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax.</p>\n\n\n\n<blockquote class=\"wp-block-quote has-text-align-center is-style-default\">\n<p>The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery.</p>\n<cite>Matt Mullenweg, 2017</cite></blockquote>\n\n\n\n<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Media Rich</h2>\n\n\n\n<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>\n\n\n\n<figure class=\"wp-block-image alignfull\"><img decoding=\"async\" src=\"https://margin.deothemes.com/wp-content/uploads/2018/05/post_2-1-769x501.jpg\" alt=\"post_2\" class=\"wp-image-224\"/></figure>\n\n\n\n<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it.</p>\n\n\n\n<p>The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>\n\n\n\n<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:</p>\n\n\n\n<p class=\"has-text-align-center\"><em> If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the GitHub repository. </em></p>\n\n\n\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://deothemes.com/\">Purchase Now</a></div>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+		"excerpt": {
+            "rendered": "<p>همانطور که ممکن است قبلاً می دانید، تعداد نامحدودی از موارد وجود دارد که می توانید در سایت خود آزمایش کنید تا به شما در افزایش فروش کمک کند. از طرح بندی گرفته تا کپی تا طراحی، ترکیبات بی حد و حصری از تغییرات وجود دارد که ممکن است شما را بهبود بخشد. نرخ تبدیل بازدیدکننده به فروش اما زمانی که تازه شروع به کار کرده‌اید، روی چه عناصری باید تمرکز کنید؟?</p>\n",
+
+      "protected": false
+    },
+		"featuredmedia": {
+			"alt_text": "Get Organized &#8211; Technology is your Friend",
+			"media_details": {
+				"width": 1440,
+				"height": 972,
+				"source_url": "https://wordpress-597675-3975829.cloudwaysapps.com/wp-content/uploads/2018/05/post_6.jpg"
+			}
+		},
+		"categories": [
+			{
+				"id": 1,
+				"name": "Planning" 
+			},
+			{
+				"id": 2,
+				"name": "Tips" 
+			}
+    ]
+	}
+]
