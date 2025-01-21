@@ -18,7 +18,7 @@ const HomeConsulting = lazy(() => import("./pages/home-consulting"));
 const Projects = lazy(() => import("./pages/projects"));
 const Blog = lazy(() => import("./pages/blog"));
 // const SinglePost = lazy(() => import("./pages/single-post"));
-const SingleProject = lazy(() => import("./pages/single-project"));
+// const SingleProject = lazy(() => import("./pages/single-project"));
 const About = lazy(() => import("./pages/about"));
 const Services = lazy(() => import("./pages/services"));
 const Pricing = lazy(() => import("./pages/pricing"));
