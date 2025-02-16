@@ -19,7 +19,7 @@ export default function ProjectList({
   grid,
   showPagination,
 }: ProjectListProps) {
-  const [_, setTotalItems] = useState<number | null>(null);
+  const [totalItems, setTotalItems] = useState<number | null>(null);
 
   const { isPending, error, data } = useQuery({
     queryKey: ['projects'],
@@ -36,7 +36,7 @@ export default function ProjectList({
     } catch (error) {
       console.error("Error fetching data:", error);
     }
-  }, [limit]);
+  }, []);
 
   useEffect(() => {
     getTotalItems();

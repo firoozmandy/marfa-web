@@ -18,7 +18,7 @@ export default function ProjectSlider({
   swiperParams,
 }: ProjectSliderProps) {
   const sliderRef = useRef<any>(null);
-  const [_, setTotalItems] = useState<number | null>(null);
+  const [totalItems, setTotalItems] = useState<number | null>(null);
 
   const { isPending, error, data } = useQuery({
     queryKey: ['projects'],
@@ -35,7 +35,7 @@ export default function ProjectSlider({
     } catch (error) {
       console.error("Error fetching data:", error);
     }
-  }, [limit]);
+  }, []);
 
   useEffect(() => {
     getTotalItems();

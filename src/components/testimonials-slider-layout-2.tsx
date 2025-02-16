@@ -27,7 +27,7 @@ const TestimonialsSliderLayout2 = ({
         className="!py-2 xl:!overflow-visible"
       >
         {testimonials.map((testimonial) => (
-          <SwiperSlide key={testimonial.name}>
+          <SwiperSlide key={testimonial.id}>
             {/* box item customer */}
             <TestimonialLayout2 testimonial={testimonial} />
           </SwiperSlide>

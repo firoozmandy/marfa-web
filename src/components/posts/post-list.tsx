@@ -19,8 +19,8 @@ export default function PostList({
   grid,
   showPagination,
 }: PostListProps) {
-  const [_, setTotalItems] = useState<number | null>(null);
-
+  const [totalItems, setTotalItems] = useState<number | null>(null);
+console.log(totalItems);
   const { isPending, error, data } = useQuery({
     queryKey: ['posts'],
     queryFn: () =>
@@ -36,7 +36,7 @@ export default function PostList({
     } catch (error) {
       console.error("Error fetching data:", error);
     }
-  }, [limit]);
+  }, []);
 
   useEffect(() => {
     getTotalItems();
