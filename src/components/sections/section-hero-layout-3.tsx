@@ -43,9 +43,9 @@ const SectionHeroLayout3 = () => {
              {/* left */}
             <div className="relative lg:text-right w-full lg:w-1/2 text-center">
                    {/* rlj 150% left */}
-              <div className="bottom-[10%] -left-[15%] md:left-[18%] absolute bg-white shadow-sm p-4 pr-11 rounded-[4rem] animate-fly s">
+              <div className="bottom-[10%] -left-[15%] md:left-[36%] absolute bg-white shadow-sm p-2 pr-3 rounded-[4rem] animate-fly s">
                 <div className="flex gap-4">
-                  <span className="inline-flex justify-center items-center bg-[#D3E9FF] rounded-full w-12 h-12">
+                  <span className="inline-flex justify-center items-center bg-[#D3E9FF] rounded-full w-9 h-9">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       viewBox="0 0 24 24"
@@ -67,13 +67,14 @@ const SectionHeroLayout3 = () => {
               {/* pic$ & ... */}
              <div className="ml-0">
                 <img
-                    src="/public/freepik/21.avif"
+                    src="./public/freepik/21.avif"
                     // width={600}
                     // height={600}
+                  
                     alt="consulting hero"
-                    className="max-w-[430px] max-h-[430px] top-4 inline-block ml-40 rounded-full"
+                    className="max-w-[400px] max-h-[400px] top-4 inline-block mr-10 rounded-full "
                   />
-                  <div className="top-1/4 right-[2%] lg:-right-[13%] absolute bg-white shadow-sm p-4 pl-11 rounded-[4rem] animate-fly">
+                  <div className="top-[10%] right-[2%] lg:-right-[10%] absolute bg-white shadow-sm p-3 pl-4 rounded-[4rem] animate-fly">
                     <div className="flex gap-4">
                       <div className="text-foreground text-left">
                         <span className="block font-medium text-xs">
@@ -94,7 +95,7 @@ const SectionHeroLayout3 = () => {
                       </span>
                     </div>
                   </div>
-                  <div className="-right-[5%] sm:-right-[10%] bottom-0 sm:bottom-0 absolute bg-white shadow-sm p-8 rounded-xl animate-fly">
+                  <div className="-right-[5%] sm:-right-[10%] bottom-0 sm:bottom-0 absolute bg-white shadow-sm p-4 rounded-xl animate-fly">
                     <div className="text-left">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"

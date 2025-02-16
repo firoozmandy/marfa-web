@@ -1,6 +1,5 @@
 import useFramerTransition from "@/hooks/use-transition";
 import SectionPageTitle from "@/components/sections/section-page-title";
-// import SectionGoogleMap from "@/components/sections/section-google-map";
 import SectionContactForm from "@/components/sections/section-contact-form";
 import { Helmet } from "react-helmet";
 
@@ -20,3 +19,4 @@ const Contact = useFramerTransition(
 );
 
 export default Contact;
+

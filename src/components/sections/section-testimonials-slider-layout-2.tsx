@@ -8,38 +8,42 @@ import "swiper/css/pagination";
 
 export const testimonials = [
   {
+    id:1,
     name: "بهار بتوان",
     company: "شرکت برنامه نویسی مارفا",
     comment:
       " مارفا یکی از هیجان انگیزترین هاست، اگر به شکل دادن به یک مدل کسب و کار جدید برای سازندگان علاقه دارید، این تیمی است که باید به آن بپیوندید..",
-    image: "/public/freepik/bb2.bmp",
+    image: "./public/freepik/bb2.bmp",
 
     rating: 5,
   },
   {
+    id:2,
     name: "بهراد بتوان",
     company: "شرکت مهندسی بهارد",
     comment:
       "مارفا یکی از هیجان انگیزترین هاست، اگر به شکل دادن به یک مدل کسب و کار جدید برای سازندگان علاقه دارید، این تیمی است که باید به آن بپیوندید.",
-    image: "/public/freepik/ba2.bmp",
+    image: "./public/freepik/ba2.bmp",
 
     rating: 5,
   },
   {
+    id:3,
     name: "بهار بتوان",
     company: "شرکت برنامه نویسی مارفا",
     comment:
       "مارفا یکی از هیجان انگیزترین هاست، اگر به شکل دادن به یک مدل کسب و کار جدید برای سازندگان علاقه دارید، این تیمی است که باید به آن بپیوندید..",
-    image: "/public/freepik/bb2.bmp",
+    image: "./public/freepik/bb2.bmp",
 
     rating: 5,
   },
   {
+    id:4,
     name: "بهار بتوان",
     company: "شرکت برنامه نویسی مارفا",
     comment:
       "مارفا یکی از هیجان انگیزترین هاست، اگر به شکل دادن به یک مدل کسب و کار جدید برای سازندگان علاقه دارید، این تیمی است که باید به آن بپیوندید..",
-    image: "/public/freepik/bb3.bmp",
+    image: "./public/freepik/bb3.bmp",
 
     rating: 5,
   },

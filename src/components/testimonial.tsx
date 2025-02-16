@@ -5,7 +5,7 @@ type TestimonialProps = {
 };
 
 const Testimonial = ({
-  testimonial: { name, company, comment, image, rating },
+  testimonial: { name, company, comment, image, rating ,id},
 }: TestimonialProps) => {
   return (
     <div className="h-full rounded-md bg-white px-10 py-12 dark:bg-slate-900">
